@@ -3,7 +3,7 @@
   border: none;
   font-family: "JetbrainsMono Nerd Font";
   font-size: 15px;
-  min-height: 10px;
+  min-height: 8px;
 }
 
 window#waybar {
@@ -60,7 +60,7 @@ window#waybar.hidden {
   margin-left: 5px;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 /* -- Specific styles -- */
@@ -103,7 +103,7 @@ window#waybar.hidden {
 }
 
 #workspaces label {
-  font-size: 25px;
+  font-size: 15px;
 }
 
 #workspaces button {
