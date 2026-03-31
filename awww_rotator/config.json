@@ -1,0 +1,22 @@
+{
+  "DP-3": {
+    "interval_sec": 180,
+    "wallpaper_dir": "~/Pictures/vapor",
+    "valid_extensions": [".jpg", ".png", ".webp"],
+    "animation": {
+      "type": "wipe",
+      "fps": 60,
+      "step": 90
+    }
+  },
+  "DP-2": {
+    "interval_sec": 600,
+    "wallpaper_dir": "~/Pictures/vapor/vert",
+    "valid_extensions": [".jpg", ".png"],
+    "animation": {
+      "type": "random",
+      "fps": 60,
+      "step": 90
+    }
+  }
+}
