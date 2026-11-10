@@ -1,7 +1,9 @@
-./*
-!gammastep/*
-!hypr/*
-!kitty/*
-!ranger/*
-!waybar/*
-!README.md
+/*
+!/awww_rotator/
+!/gammastep/
+!/hypr/
+!/kitty/
+!/ranger/
+!/waybar/
+!/README.md
+!/.gitignore
