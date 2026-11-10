@@ -35,7 +35,6 @@ hl.window_rule({ match = { class = "spotify" }, workspace = "9" })
 --------------------------------
 -- OPACITY
 --------------------------------
-hl.window_rule({ match = { class = "kitty" }, opacity = "0.8 0.75" })
 hl.window_rule({ match = { class = "firefox" }, opacity = "1.0 1.0 override" })
 hl.window_rule({ match = { class = "jetbrains-pycharm" }, opacity = "1.0 1.0 override" })
 hl.window_rule({ match = { class = "chromium" }, opacity = "1.0 1.0 override" })
